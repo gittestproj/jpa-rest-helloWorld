@@ -21,6 +21,10 @@ public class Other {
 		this.id = id;
 	}
 
+        public static void test() {
+        System.out.println("test"); 
+        }
+        
 	public String getName() {
 		return name;
 	}
