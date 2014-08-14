@@ -1,0 +1,1 @@
+curl --request PUT --user admin:admin123 http://localhost:10001/content/repositories/snapshots/com/acme/jpa-rest-helloWorld-1.0-SNAPSHOT.war --data @./target/jpa-rest-helloWorld-1.0-SNAPSHOT.war  -H Content-Type:application/java-archive --verbose
