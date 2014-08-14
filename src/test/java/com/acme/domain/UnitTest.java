@@ -1,4 +1,4 @@
-package com.test;
+package com.acme.domain;
 import org.junit.Test;
 public class UnitTest {
 @Test
