@@ -1,4 +1,4 @@
-package com.acme;
+package com.acme.domain;
 
 import org.junit.Test;
 
